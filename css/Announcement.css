@@ -98,7 +98,10 @@ body
             border: 1px solid black;
             width: auto;
             float:inline-end;
-            background-color: #f09433;
+        }
+        .detail a
+        {
+            text-decoration: none;
         }
         .col-sm-9 h3 a
         {
