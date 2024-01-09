@@ -92,6 +92,14 @@ body
             float:inline-end;
             background-color: #f8bc2870;
         }
+        .detail
+        {
+            height: fit-content;
+            border: 1px solid black;
+            width: auto;
+            float:inline-end;
+            background-color: #f09433;
+        }
         .col-sm-9 h3 a
         {
             color: black;
