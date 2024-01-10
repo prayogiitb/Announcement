@@ -98,6 +98,7 @@ body
             border: 1px solid black;
             width: auto;
             float:inline-end;
+            background-color: #f09433;
         }
         .detail a
         {
